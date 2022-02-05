@@ -53,7 +53,7 @@ public class CardGen : MonoBehaviour
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (9, 'Allie Quigley', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (10, 'Candace Parker', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (11, 'Diamond DeShields', 1,'');
-								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (12, 'Courtney Vandersloot', 0,'');
+								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (12, 'Courtney Vandersloot', 0,'courtney.png');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (13, 'Kahleah Copper', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (14, 'Ruthy Hebard', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (15, 'Shyla Heal', 0,'');
@@ -117,7 +117,7 @@ public class CardGen : MonoBehaviour
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (73, 'Sabrina Ionescu', 1,'sabrina.jpg');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (74, 'Jocelyn Willoughby', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (75, 'Kylee Shook', 0,'');
-								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (76, 'Layshia Clarendon', 0,'');
+								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (76, 'Layshia Clarendon', 0,'layshia.jpg');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (77, 'Michaela Onyenwere', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (78, 'Natasha Howard', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (79, 'Sami Whitcomb', 0,'');
@@ -131,7 +131,7 @@ public class CardGen : MonoBehaviour
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (87, 'Brianna Turner', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (88, 'Kia Vaughn', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (89, 'Sophie Cunningham', 0,'');
-								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (90, 'Breanna Stewart', 1,'');
+								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (90, 'Breanna Stewart', 1,'breanna.jpg');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (91, 'Lauren Jackson', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (92, 'Sue Bird', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (93, 'Candice Dupree', 0,'');
@@ -139,7 +139,7 @@ public class CardGen : MonoBehaviour
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (95, 'Ezi Magbegor', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (96, 'Jewell Loyd', 0,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (97, 'Jordin Canada', 0,'');
-								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (98, 'Katie Lou Samuelson', 0,'');
+								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (98, 'Katie Lou Samuelson', 0,'katie.png');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (99, 'Elena Delle Donne', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (100, 'Myisha Hines-Allen', 1,'');
 								INSERT OR IGNORE INTO basic_cards (id, name, rarity, image) VALUES (101, 'Tina Charles', 1,'');
@@ -162,10 +162,9 @@ public class CardGen : MonoBehaviour
 		{
 			pulls.Add(reader[0].ToString());
 			Debug.Log("Id: " + pulls[counter].ToString());
+			cards[counter].GetComponent<Image>().sprite = images[Int32.Parse(pulls[counter].ToString())];
 			counter++;
 		}
-
-		cards[0].GetComponent<Image>().sprite = images[Int32.Parse(pulls[0].ToString())];
 
 		// Close connection
 		dbcon.Close();
