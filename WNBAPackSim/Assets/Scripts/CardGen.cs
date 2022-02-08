@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Data;
 using Mono.Data.Sqlite;
-using System.IO;
 using System.Collections.Generic;
 using System;
 using UnityEngine.UI;
@@ -11,6 +10,7 @@ public class CardGen : MonoBehaviour
 	public GameObject[] cards;
 	public Sprite[] images = new Sprite[106];
 	private List<string> pulls = new List<string>();
+
     // Start is called before the first frame update
     void Start()
 	{
@@ -21,8 +21,6 @@ public class CardGen : MonoBehaviour
 		IDbConnection dbcon = new SqliteConnection(connection);
 		dbcon.Open();
 
-		//FlushAll(dbcon);
-
 		// Create table
 		IDbCommand dbcmd;
 		dbcmd = dbcon.CreateCommand();
@@ -30,13 +28,14 @@ public class CardGen : MonoBehaviour
 		dbcmd.CommandText = q_createTable;
 		dbcmd.ExecuteReader();
 
+		// TODO: Possible extension if we wanted to offer long term support. Could verify which versions have been installed, and check if we are up to date.
+
 		//dbcmd = dbcon.CreateCommand();
 		//q_createTable = "CREATE TABLE IF NOT EXISTS version_info (id INTEGER PRIMARY KEY, description TEXT)";
 		//dbcmd.CommandText = q_createTable;
 		//dbcmd.ExecuteReader();
 
 		bool populated = CheckIfPopulated(dbcon);
-		//bool populated = false;
 		if (!populated)
         {
 			// Insert values in table
@@ -162,7 +161,6 @@ public class CardGen : MonoBehaviour
 		while (reader.Read())
 		{
 			pulls.Add(reader[0].ToString());
-			//Debug.Log("Id: " + pulls[counter].ToString());
 			cards[counter].GetComponent<Image>().sprite = images[Int32.Parse(pulls[counter].ToString())];
 			counter++;
 		}
@@ -171,12 +169,6 @@ public class CardGen : MonoBehaviour
 		dbcon.Close();
 
 	}
-
-	// Update is called once per frame
-	void Update()
-    {
-        
-    }
 
 	bool CheckIfPopulated(IDbConnection dbcon)
     {
@@ -193,6 +185,7 @@ public class CardGen : MonoBehaviour
 		return true;
 	}
 
+	// Can call if you wish to restart with a fresh table.
 	void FlushAll(IDbConnection dbcon)
     {
 
