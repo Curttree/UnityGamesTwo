@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 6a63ac95c35866e4ba38f782f87bdfc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -96857826166059959
+    second: aja_wilson
+  - first:
+      213: -3366654241964916804
+    second: angel_mccoughtry
+  - first:
+      213: -2961934834092045702
+    second: dearica_hamby
+  - first:
+      213: -504959019170767408
+    second: jackie_young
+  - first:
+      213: -4554382923356814144
+    second: liz_cambage
+  - first:
+      213: -7805325423736837271
+    second: chelsea_gray
+  - first:
+      213: -3719756867510146977
+    second: ilana_rupert
+  - first:
+      213: 8079760449865717466
+    second: kelsey_plum
+  - first:
+      213: 1435677619377753896
+    second: riquna_williams
+  - first:
+      213: 6915365676206404866
+    second: betnijah_laney
+  - first:
+      213: -2125371153392467085
+    second: sabrina_ionescu
+  - first:
+      213: -9060093297449907356
+    second: jocelyn_willoughby
+  - first:
+      213: 7649677019614218825
+    second: kylee_shook
+  - first:
+      213: -7591711161552500595
+    second: layshia_clarendon
+  - first:
+      213: -7916188348282640020
+    second: michaela_onyenwere
+  - first:
+      213: -8226229664434994230
+    second: natasha_howard
+  - first:
+      213: 421597222066565582
+    second: sami_whitcomb
+  - first:
+      213: 4807950381483188371
+    second: brittney_griner
+  - first:
+      213: 1936680171056234389
+    second: diana_taurasi
+  - first:
+      213: 8994119607940140457
+    second: kia_nurse
+  - first:
+      213: -2128070901135604643
+    second: skylar_digginssmith
+  - first:
+      213: 7056717370109932404
+    second: alanna_smith
+  - first:
+      213: 5505364655422596239
+    second: brianna_turner
+  - first:
+      213: -869640125860999010
+    second: kia_vaughn
+  - first:
+      213: 8571351109242135628
+    second: sophie_cunningham
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aja_wilson
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc7adf154e7aef0800000000000000
+      internalID: -96857826166059959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angel_mccoughtry
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf7e12edcd3741d0800000000000000
+      internalID: -3366654241964916804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dearica_hamby
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a861e16f715e6d0800000000000000
+      internalID: -2961934834092045702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jackie_young
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd523c82760ef8f0800000000000000
+      internalID: -504959019170767408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: liz_cambage
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c446328cd49bc0c0800000000000000
+      internalID: -4554382923356814144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chelsea_gray
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b27d9a1e9eda390800000000000000
+      internalID: -7805325423736837271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ilana_rupert
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ec3d46d4c06cc0800000000000000
+      internalID: -3719756867510146977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelsey_plum
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad61f7c1253112070800000000000000
+      internalID: 8079760449865717466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riquna_williams
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4df2303d8ce310800000000000000
+      internalID: 1435677619377753896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: betnijah_laney
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205363e717058ff50800000000000000
+      internalID: 6915365676206404866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_ionescu
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730e2a523a2182e0800000000000000
+      internalID: -2125371153392467085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jocelyn_willoughby
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc99df525144280800000000000000
+      internalID: -9060093297449907356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kylee_shook
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a039838bc192a60800000000000000
+      internalID: 7649677019614218825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layshia_clarendon
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d888b42dbe2d4a690800000000000000
+      internalID: -7591711161552500595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: michaela_onyenwere
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e68593ac042290800000000000000
+      internalID: -7916188348282640020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natasha_howard
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3429264bf86dd80800000000000000
+      internalID: -8226229664434994230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sami_whitcomb
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b1939070d9d500800000000000000
+      internalID: 421597222066565582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brittney_griner
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390620af56549b240800000000000000
+      internalID: 4807950381483188371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diana_taurasi
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f7957ca5870ea10800000000000000
+      internalID: 1936680171056234389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kia_nurse
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc5aa612881dc70800000000000000
+      internalID: 8994119607940140457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skylar_digginssmith
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5487f85ac29772e0800000000000000
+      internalID: -2128070901135604643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alanna_smith
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733bbd5f0f7ee160800000000000000
+      internalID: 7056717370109932404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brianna_turner
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8464754cfbf66c40800000000000000
+      internalID: 5505364655422596239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kia_vaughn
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9011afb9ea6ee3f0800000000000000
+      internalID: -869640125860999010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sophie_cunningham
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44278fbb6e83f670800000000000000
+      internalID: 8571351109242135628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

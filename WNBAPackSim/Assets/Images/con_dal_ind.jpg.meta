@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 53e0869350aa8d7419c52d64faffeb71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8041850646394447080
+    second: alyssa_thomas
+  - first:
+      213: 2495181418460241382
+    second: briann_january
+  - first:
+      213: -4183873415315603311
+    second: brionna_jones
+  - first:
+      213: -8737648088850847994
+    second: dewanna_bonner
+  - first:
+      213: -4539086501840577829
+    second: jasmine_thomas
+  - first:
+      213: -5819340891660740374
+    second: jonquel_jones
+  - first:
+      213: -8082690464693939873
+    second: arike_ogunbowale
+  - first:
+      213: -619816950088355204
+    second: awak_kuier
+  - first:
+      213: 1480007663345700693
+    second: charli_collier
+  - first:
+      213: -3906508462558326131
+    second: allisha_gray
+  - first:
+      213: -8771626379909181543
+    second: chelsea_dungee
+  - first:
+      213: 9098055905083502308
+    second: isabelle_harrison
+  - first:
+      213: -2381784476444638077
+    second: kayla_thorton
+  - first:
+      213: -6584547388519214142
+    second: marina_mabrey
+  - first:
+      213: -7357018214315484430
+    second: moriah_jefferson
+  - first:
+      213: -8024285238671933493
+    second: satou_sabally
+  - first:
+      213: 5533394514293395813
+    second: kelsey_mitchell
+  - first:
+      213: 1022803688303024499
+    second: aaliyah_wilson
+  - first:
+      213: -7523208412548752069
+    second: danielle_robinson
+  - first:
+      213: -6895405401644203272
+    second: jantel_lavender
+  - first:
+      213: 8548145252369902315
+    second: kysre_gondrezick
+  - first:
+      213: 4998234455754201219
+    second: lauren_cox
+  - first:
+      213: 7023132577330260998
+    second: teaira_mccowan
+  - first:
+      213: 2028587906693102754
+    second: tiffany_mitchell
+  - first:
+      213: 8532431490221226982
+    second: victoria_vivians
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alyssa_thomas
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd9e4d17b956090800000000000000
+      internalID: -8041850646394447080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: briann_january
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5a71b74aa0a220800000000000000
+      internalID: 2495181418460241382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brionna_jones
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c9eebb45efe5c0800000000000000
+      internalID: -4183873415315603311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dewanna_bonner
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607aca37b53adb680800000000000000
+      internalID: -8737648088850847994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_thomas
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 4274
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda950d20ece101c0800000000000000
+      internalID: -4539086501840577829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jonquel_jones
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae818ad8a4c8d3fa0800000000000000
+      internalID: -5819340891660740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arike_ogunbowale
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511b76a8d384df80800000000000000
+      internalID: -8082690464693939873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awak_kuier
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b73094c7f567f0800000000000000
+      internalID: -619816950088355204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charli_collier
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3208
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f839ed02b0a8410800000000000000
+      internalID: 1480007663345700693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allisha_gray
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 3211
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d825729304b49c9c0800000000000000
+      internalID: -3906508462558326131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chelsea_dungee
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4113184ce44680800000000000000
+      internalID: -8771626379909181543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isabelle_harrison
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea52164a9c24e70800000000000000
+      internalID: 9098055905083502308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kayla_thorton
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844afd43a332fed0800000000000000
+      internalID: -2381784476444638077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marina_mabrey
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3169c590dfe94a0800000000000000
+      internalID: -6584547388519214142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moriah_jefferson
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 2142
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa95a9c9ee96e990800000000000000
+      internalID: -7357018214315484430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satou_sabally
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7c84071304a090800000000000000
+      internalID: -8024285238671933493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kelsey_mitchell
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619d8a5ef09acc40800000000000000
+      internalID: 5533394514293395813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aaliyah_wilson
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379d244198ab13e00800000000000000
+      internalID: 1022803688303024499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: danielle_robinson
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1dc6fec1389790800000000000000
+      internalID: -7523208412548752069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jantel_lavender
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1076
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f200b412599e40a0800000000000000
+      internalID: -6895405401644203272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kysre_gondrezick
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea23f721dc11a670800000000000000
+      internalID: 8548145252369902315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lauren_cox
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d85771cb4d5540800000000000000
+      internalID: 4998234455754201219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teaira_mccowan
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6e327edd277160800000000000000
+      internalID: 7023132577330260998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiffany_mitchell
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac781604fdf62c10800000000000000
+      internalID: 2028587906693102754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victoria_vivians
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 10
+        width: 748
+        height: 1056
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb3efccb39496670800000000000000
+      internalID: 8532431490221226982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8dd98c671c601b94294ef7187c34a98f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
